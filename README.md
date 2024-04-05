@@ -1,1 +1,8 @@
-# Walmart-Sales-Analysis
+**Introduction**
+Walmart, a retail giant, boasts a diverse business portfolio ranging from groceries to electronics, catering to various consumer needs. Leveraging its extensive network of stores and e-commerce platform, Walmart continues to witness robust sales, fueled by competitive pricing and strategic partnerships. With a global footprint, Walmart's innovative initiatives and customer-centric approach ensure sustained growth in an ever-evolving retail landscape. This project targets to analyze the sales data of Walmart.
+
+**Objective**
+Walmart's sales data analysis aims to optimize performance across diverse product lines by identifying top-performing categories, understanding customer preferences, and tracking purchasing trends. By leveraging insights from this analysis, Walmart can enhance inventory management, tailor marketing strategies, and ensure maximum profitability while meeting evolving consumer demands in various market segments.
+
+**Findings**
+Sales data from three city branches of Walmart reveals a total sales quantity of 5510, generating $322,966 in revenue. Electronics emerged as the top-selling category, comprising 17.6% of total sales. Food and beverage proved the highest revenue earner at $56,144. However, despite high sales quantities, electronics accessories yielded comparatively lower income. Customer ratings peaked for food and beverage at 7.11, while home and lifestyle received the lowest score at 6.84. Evening sales dominated, constituting 42.8% of total sales, with Saturdays being the busiest. The majority of customers preferred using wallets or cash for transactions.
